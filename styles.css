@@ -8,5 +8,8 @@ h1{
 ul{
     color: darksalmon;
     text-align: left;
-    background-color: gray;
+}
+
+body{
+    background-color: cornsilk;
 }
